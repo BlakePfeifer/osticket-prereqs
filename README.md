@@ -110,7 +110,7 @@ No previous experience needed — every step is explained in simple terms!
 
 ## Step 4: Install PHP Manager and PHP
 
-- Download **PHP Manager for IIS** from [here](https://www.iis.net/downloads/community/2018/05/php-manager-1-4-for-iis-10).
+- Download **PHP Manager for IIS** from https://github.com/phpmanager/phpmanager
 - Install it by following the on-screen instructions.
 
 - Next, download **PHP for Windows** (version 7.3 or 7.4 recommended) from [here](https://windows.php.net/download/).
