@@ -110,12 +110,16 @@ No previous experience needed — every step is explained in simple terms!
 
 ## Step 4: Install PHP Manager and PHP
 
-- Download and install **PHP Manager for IIS** (search online for download link).
-- Download and install **PHP** (recommended: PHP 7.3 or 7.4 for osTicket).
-- After installation:
+- Download **PHP Manager for IIS** from [here](https://www.iis.net/downloads/community/2018/05/php-manager-1-4-for-iis-10).
+- Install it by following the on-screen instructions.
+
+- Next, download **PHP for Windows** (version 7.3 or 7.4 recommended) from [here](https://windows.php.net/download/).
+- Choose the **Thread Safe** version and make sure you get the correct architecture (x64 if your VM is 64-bit).
+
+- After installing PHP:
   - Open **IIS Manager** (search for it in Start Menu).
   - Click your computer name on the left panel.
-  - Open **PHP Manager** to confirm PHP is detected.
+  - Open **PHP Manager** to confirm PHP is detected properly.
 
 <!-- Insert Screenshot Here -->
 
@@ -123,11 +127,11 @@ No previous experience needed — every step is explained in simple terms!
 
 ## Step 5: Install MySQL
 
-- Download **MySQL Community Server**.
-- Install it on your VM.
-- Set a strong root password during setup.
-- (Optional) Install MySQL Workbench if you want a GUI for managing databases.
-- Create a database for osTicket:
+- Download **MySQL Community Server** from [here](https://dev.mysql.com/downloads/mysql/).
+- Run the installer and follow the setup wizard.
+- **Important**: Set a strong root password that you will remember.
+- (Optional) You can also install **MySQL Workbench** if you want an easier visual way to manage databases.
+- After installation, create a new database for osTicket:
   - Example: `osticket_db`
 
 <!-- Insert Screenshot Here -->
@@ -136,13 +140,13 @@ No previous experience needed — every step is explained in simple terms!
 
 ## Step 6: Download and Install osTicket
 
-- Go to [osTicket Download Page](https://osticket.com/download/).
-- Download the latest stable version.
-- Extract the zip file.
-- Move the extracted files into:  
+- Download the latest version of **osTicket** from [here](https://osticket.com/download/).
+- Extract the downloaded zip file.
+- Move the contents into this folder:  
   `C:\inetpub\wwwroot\osTicket`
+
 - Set permissions:
-  - Right-click on `include` and `attachments` folders > **Properties** > **Security** tab > Allow full control for IIS users.
+  - Right-click on the `include` and `attachments` folders > **Properties** > **Security** tab > Allow full control for IIS users.
 
 <!-- Insert Screenshot Here -->
 
@@ -151,12 +155,12 @@ No previous experience needed — every step is explained in simple terms!
 ## Step 7: Run the osTicket Web Installer
 
 - Open your web browser.
-- Type your VM’s public IP address into the address bar:  
+- Navigate to:  
   `http://<Your_VM_Public_IP>/osTicket`
-- The osTicket setup page will appear.
+- The osTicket setup page should appear.
 - Fill out:
-  - Admin information (email, password)
-  - Database info (Database Name, Username, Password)
+  - Admin Information (name, email, password)
+  - Database Information (Database Name, MySQL username, password)
 
 <!-- Insert Screenshot Here -->
 
@@ -164,8 +168,9 @@ No previous experience needed — every step is explained in simple terms!
 
 ## Step 8: Final Steps After Installation
 
-- **Important**: Delete or rename the `setup` folder inside `C:\inetpub\wwwroot\osTicket`.
-- Verify that everything is working correctly.
+- After installation, go to `C:\inetpub\wwwroot\osTicket`.
+- **Delete or rename the `setup` folder** to protect your site.
+- Double-check that the main page loads without errors.
 
 <!-- Insert Screenshot Here -->
 
@@ -177,7 +182,7 @@ No previous experience needed — every step is explained in simple terms!
 - Installed a web server (IIS)
 - Installed PHP and MySQL
 - Set up osTicket
-- Connected all the pieces together
+- Connected everything together
 
 ---
 
