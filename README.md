@@ -104,7 +104,7 @@ No previous experience needed — every step is explained in simple terms!
   - ISAPI Filters
 - Click **OK** to install.
 
-<!-- Insert Screenshot Here -->
+![image](https://github.com/user-attachments/assets/501aa3f0-601c-473e-ac5c-592b90c77b49)
 
 ---
 
