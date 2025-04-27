@@ -90,23 +90,7 @@ No previous experience needed — every step is explained in simple terms!
 
 ---
 
-## Step 3: Install IIS (Internet Information Services)
 
-- On your VM desktop, search for **"Turn Windows features on or off"** in the Start menu.
-- Check the box for:
-  - **Internet Information Services**
-- Expand the IIS options and make sure these are checked:
-  - Static Content
-  - Default Document
-  - Directory Browsing
-  - HTTP Errors
-  - ASP.NET
-  - CGI
-  - ISAPI Extensions
-  - ISAPI Filters
-- Click **OK** to install.
-
-![image](https://github.com/user-attachments/assets/501aa3f0-601c-473e-ac5c-592b90c77b49)
 
 ---
 
@@ -117,7 +101,8 @@ No previous experience needed — every step is explained in simple terms!
   - **Internet Information Services (IIS)**
   - Under **World Wide Web Services** ➡️ **Application Development Features** ➡️ [X] **CGI**
 
-<!-- Insert Screenshot Here -->
+![image](https://github.com/user-attachments/assets/8fbbe29c-a380-4a6e-b933-22881e83e542)
+
 
 ---
 
@@ -127,7 +112,8 @@ No previous experience needed — every step is explained in simple terms!
 - Extract it to your **Desktop**.
 - You should now have a folder called **osTicket-Installation-Files**.
 
-<!-- Insert Screenshot Here -->
+![image](https://github.com/user-attachments/assets/82677340-77f7-46f0-a4a7-b0f4d1584bb0)
+
 
 ---
 
@@ -137,7 +123,9 @@ No previous experience needed — every step is explained in simple terms!
   - Install **PHP Manager for IIS** (`PHPManagerForIIS_V1.5.0.msi`).
   - Install **IIS Rewrite Module** (`rewrite_amd64_en-US.msi`).
 
-<!-- Insert Screenshot Here -->
+![image](https://github.com/user-attachments/assets/7caf33a8-4a9e-48d8-a073-ebf19e6d0b5d)
+
+
 
 ---
 
@@ -148,7 +136,9 @@ No previous experience needed — every step is explained in simple terms!
   - Unzip **php-7.3.8-nts-Win32-VC15-x86.zip** into `C:\PHP`.
 - Install **VC_redist.x86.exe** (important for PHP to work).
 
-<!-- Insert Screenshot Here -->
+![image](https://github.com/user-attachments/assets/d55aa1eb-be79-404f-9523-c291f938a2d0)
+![image](https://github.com/user-attachments/assets/2159dd56-6c23-42d2-bc5b-b6e4bb1c2524)
+
 
 ---
 
