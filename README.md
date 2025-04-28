@@ -154,7 +154,14 @@ No previous experience needed — every step is explained in simple terms!
     - **Username**: `root`
     - **Password**: `root`
 
-<!-- Insert Screenshot Here -->
+![image](https://github.com/user-attachments/assets/8d3dee4e-2767-404d-b3ef-2c32c6ba5cfd)
+![image](https://github.com/user-attachments/assets/9d1605f4-9f3a-4205-a4cb-08ecdc52927f)
+![image](https://github.com/user-attachments/assets/5b801012-c853-4e85-a52e-9c1939894bfe)
+![image](https://github.com/user-attachments/assets/dff6be89-f6f9-4735-9dc3-7ffb8e54524c)
+![image](https://github.com/user-attachments/assets/35d80e9b-1a16-452d-ac47-0f232d7f63d8)
+![image](https://github.com/user-attachments/assets/f0995704-4b46-460e-bf70-74a414e41955)
+![image](https://github.com/user-attachments/assets/0e088f4e-2ed0-4f41-8957-c5b94980f32b)
+
 
 ---
 
