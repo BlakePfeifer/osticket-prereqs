@@ -176,6 +176,8 @@ No previous experience needed — every step is explained in simple terms!
 
 ![image](https://github.com/user-attachments/assets/f4fffadb-8052-4e40-9d1d-73af4c693644)
 ![image](https://github.com/user-attachments/assets/6dad12f2-3924-44e1-abeb-6f49c499b5f5)
+![image](https://github.com/user-attachments/assets/0e7da268-b4fe-4b79-b3cc-b29bf71a4808)
+![image](https://github.com/user-attachments/assets/19d80bad-365e-4f50-8de1-219a4e13b875)
 
 
 ---
@@ -193,7 +195,13 @@ No previous experience needed — every step is explained in simple terms!
   - Go to **Sites** ➔ **Default Web Site** ➔ **osTicket**.
   - On the right, click **"Browse *:80"**.
 
-<!-- Insert Screenshot Here -->
+![image](https://github.com/user-attachments/assets/bf88fee3-6ded-4eb7-bda0-73537e53c01f)
+![image](https://github.com/user-attachments/assets/d93fc00b-590e-406b-bd09-d804eaac0550)
+![image](https://github.com/user-attachments/assets/dac8f7b7-38f6-464c-9c5f-b0f1a5465a27)
+![image](https://github.com/user-attachments/assets/023f7829-221f-4812-99ed-0406c7d3d7e6)
+![image](https://github.com/user-attachments/assets/16828ce8-2714-441a-b1be-e583ef8f2225)
+![image](https://github.com/user-attachments/assets/0c7d6b59-1631-471d-8b48-bab92f1e0dcf)
+
 
 ---
 
@@ -210,7 +218,11 @@ No previous experience needed — every step is explained in simple terms!
 
 - Refresh your osTicket site in the browser to see changes.
 
-<!-- Insert Screenshot Here -->
+![image](https://github.com/user-attachments/assets/7c2d676b-144c-4fec-a8fd-1114e53fb8e3)
+![image](https://github.com/user-attachments/assets/ea1aa4a9-c543-4f68-8e6d-a663c767f1c9)
+![image](https://github.com/user-attachments/assets/555d745c-064d-4df6-a302-cc5f9870c97d)
+![image](https://github.com/user-attachments/assets/80e6f2a9-f6e0-4f5f-94c2-c3203c320a41)
+
 
 ---
 
@@ -227,7 +239,11 @@ No previous experience needed — every step is explained in simple terms!
   - **Disable Inheritance** ➔ Remove all permissions ➔ Add:
     - **Everyone** ➔ Full Control.
 
-<!-- Insert Screenshot Here -->
+![image](https://github.com/user-attachments/assets/2ab82ea4-0ff0-4343-bd76-be0d3efd54f2)
+![image](https://github.com/user-attachments/assets/4b839c5f-d813-4dad-b48f-53ce969b85b3)
+![image](https://github.com/user-attachments/assets/b589b621-f24c-40eb-8875-bb4483f97e8d)
+![image](https://github.com/user-attachments/assets/83265ccf-9438-4984-a3ed-14b25570096a)
+
 
 ---
 
@@ -242,7 +258,9 @@ No previous experience needed — every step is explained in simple terms!
 - Connect and create a new database:
   - Name it: `osTicket`
 
-<!-- Insert Screenshot Here -->
+![image](https://github.com/user-attachments/assets/8893e0f6-b923-41da-b298-f1231f7b5146)
+![image](https://github.com/user-attachments/assets/a68f05e9-e5f3-4989-9d5b-83e1214b21d1)
+
 
 ---
 
@@ -255,7 +273,8 @@ No previous experience needed — every step is explained in simple terms!
   - **MySQL Password**: `root`
 - Click **Install Now!**
 
-<!-- Insert Screenshot Here -->
+![image](https://github.com/user-attachments/assets/30b350f8-8969-463d-b202-4d6461c987dd)
+
 
 ---
 
@@ -266,6 +285,8 @@ You can access:
 
 - **Admin login page**: [http://localhost/osTicket/scp/login.php](http://localhost/osTicket/scp/login.php)
 - **End User page**: [http://localhost/osTicket/](http://localhost/osTicket/)
+
+![image](https://github.com/user-attachments/assets/72690e3e-2455-435f-b29f-8a8cb66bf917)
 
 ---
 
