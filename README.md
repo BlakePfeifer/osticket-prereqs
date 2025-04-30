@@ -174,7 +174,9 @@ No previous experience needed — every step is explained in simple terms!
   - `C:\PHP\php-cgi.exe`
 - Stop and Start IIS to reload settings.
 
-<!-- Insert Screenshot Here -->
+![image](https://github.com/user-attachments/assets/f4fffadb-8052-4e40-9d1d-73af4c693644)
+![image](https://github.com/user-attachments/assets/6dad12f2-3924-44e1-abeb-6f49c499b5f5)
+
 
 ---
 
