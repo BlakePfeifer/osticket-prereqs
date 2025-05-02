@@ -11,11 +11,7 @@ No previous experience needed — every step is explained in simple terms!
 
 ---
 
-# 🎥 Video Demonstration
 
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
-
----
 
 # 💻 Environments and Technologies Used
 
